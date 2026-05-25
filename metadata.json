@@ -1,0 +1,6 @@
+{
+  "name": "Iqama Data Upload System",
+  "description": "Upload Iqama ID images for automatic AI-powered OCR processing and webhook workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
